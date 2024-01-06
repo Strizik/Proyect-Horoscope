@@ -1,4 +1,4 @@
--El temario del proyecto se basa en:
+## El temario del proyecto se basa en:
 
     Arquitectura MVVM y clean code
     
